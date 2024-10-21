@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1729470515 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\eleicoes-trab3\main.c
+	<stdio.h>
+	"eleicoes.h"
+
+1729470619 c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\eleicoes-trab3\eleicoes.h
+
+1729470609 source:c:\users\bielr\onedrive\Área de trabalho\faculdade\faculdade_códigos\estruturadedados\eleicoes-trab3\eleicoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"eleicoes.h"
+
